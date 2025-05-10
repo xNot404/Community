@@ -1,2 +1,2 @@
-# Discord
+# Website
 Community
